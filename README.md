@@ -9,7 +9,7 @@
 ## Tech Stack
 - Angular - as a frontend framework
 - Firebase - for data storage
-- Any additional dependency or technology is allowed if needed.
+- Any additional libraries or technologies are allowed if needed.
 
 ## Additional info and requirements
 - Use the spritesheet from this repository. Don't split it into multiple files.
