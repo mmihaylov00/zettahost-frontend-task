@@ -21,6 +21,6 @@
 - Provide a link to a public github repository with a commit history.
 
 ## Bonus Points
-- The game should be mobile friendly and easily controlled on devices without key.
+- The game should be mobile friendly and easily controlled on devices without keyboard.
 - Website design.
 - Play sounds.
