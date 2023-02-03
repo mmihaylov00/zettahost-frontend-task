@@ -4,7 +4,7 @@
 - The home page of the site is a "Main Menu" with a "Start" button and a leaderboard of the top 10 results and the usernames of the players who did them.
 - When the "Start" button is clicked, the player is taken to the game screen. The game begins when the player presses any arrow key.
 - When the player collects all points on the map, the game is restarted, but the player keeps his points.
-- When the player dies, the game ends and a popup that propmpts the player to enter his username is shown. When he clicks continue the data gets saved and  the player is redirected to the "Main Menu".
+- When the player dies, the game ends and a popup that prompts the player to enter his username is shown. When he clicks continue the data gets saved and  the player is redirected to the "Main Menu".
 
 ## Tech Stack
 - Angular - as a frontend framework
@@ -17,6 +17,7 @@
 - Use the arrow keys to control the pacman's movement.
 - Good component separation.
 - Use routing.
+- Use Angular Forms.
 - Time to complete is 1 week.
 - Provide a link to a public github repository with a commit history.
 
